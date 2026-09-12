@@ -26,19 +26,5 @@
       "binding": "ANALYTICS",
       "dataset": "sink"
     }
-  ],
-  "kv_namespaces": [
-    {
-      "binding": "KV",
-      "id": "MASUKKAN_KV_ID_KAMU_DISINI"
-    }
-  ],
-  "d1_databases": [
-    {
-      "binding": "DB",
-      "database_name": "sink-db",
-      "database_id": "MASUKKAN_D1_DATABASE_ID_KAMU_DISINI",
-      "migrations_dir": "drizzle"
-    }
   ]
 }
