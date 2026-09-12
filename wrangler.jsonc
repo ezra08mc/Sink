@@ -45,5 +45,6 @@
       "database_id": "placeholder_d1_id",
       "migrations_dir": "drizzle"
     }
-  ]
+  ],
+  "r2_buckets": []
 }
